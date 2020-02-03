@@ -1,4 +1,4 @@
-# A simple Git and GitHub demo for CS 407 Spring 2020.
+A simple Git and GitHub demo for CS 407 Spring 2020.
 
 # Steps
 1. Fork this repository to your own GitHub account.
