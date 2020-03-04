@@ -9,6 +9,6 @@ public class FriendlyGreeter
         String s = in.nextLine();
         
         // TODO: change this string so the computer likes the name
-        System.out.println(s + ", huh? I don't like that name!!!");
+        System.out.println(s + ", huh? lovely");
     }
 }
